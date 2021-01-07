@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "info": {
+    "name": "product",
+    "description": "This represents the Product Model"
+  },
+  "attributes": {
+    "name": {
+      "default": "",
+      "type": "string"
+    },
+    "description": {
+      "default": "",
+      "type": "text"
+    }
+  }
+}
