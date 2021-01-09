@@ -5,6 +5,10 @@
     "name": "product",
     "description": "This represents the Product Model"
   },
+  "options": {
+    "timestamps": true,
+    "draftAndPublish": true
+  },
   "attributes": {
     "name": {
       "default": "",
